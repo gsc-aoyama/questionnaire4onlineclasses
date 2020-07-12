@@ -29,6 +29,7 @@ COVID-19 の世界的な大流行により、青山学院大学2020年度前期�
 [© GSC, Aoyama Gakuin Univ., CC BY 4.0](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/LICENSE.md)
 
 
+<img src="https://user-images.githubusercontent.com/416977/87241280-71975580-c45c-11ea-9f25-b86086d82cb9.png" width="100">
 
 
 
