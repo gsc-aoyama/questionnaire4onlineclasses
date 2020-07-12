@@ -68,8 +68,7 @@ GSC学部生には事前に「秘密の言葉」を共有しています。必�
 
 #### 1-4. 出身高校の場所（都道府県 or その他） *
 ※ 海外の場合は「その他」を選び国名を記述してください。
-
-[都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
+* [都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
 
 
 #### 1-5. 前述の出身高校が "その他(海外)" の場合は国名を教えて下さい。　
@@ -78,8 +77,7 @@ GSC学部生には事前に「秘密の言葉」を共有しています。必�
 
 #### 1-6. 現在(2020年度前期)居住している場所（都道府県 or その他） *
 ※ 海外の場合は「その他」を選び国名を記述してください。
-
-[都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
+* [都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
 
 
 #### 1-7. 前述の現在(2020年度前期)居住している場所が "その他(海外)" の場合は国名を教えて下さい。
