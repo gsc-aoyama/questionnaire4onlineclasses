@@ -8,7 +8,7 @@ COVID-19 の世界的な大流行により、青山学院大学2020年度前期�
 ## 1.利用方法
 
 ### 1-1.アンケート質問項目原文
-適宜コピーして改変するなど二次利用していただいて問題ありません。 どこかに小さく © GSC, Aoyama Gakuin Univ., CC BY 4.0 とお書きください。
+適宜以下のURLより[原文](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md)をコピーして改変するなど二次利用していただいて問題ありません。 どこかに小さく © GSC, Aoyama Gakuin Univ., CC BY 4.0 とお書きください。
 * https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md
 
 
