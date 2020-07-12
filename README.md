@@ -8,28 +8,25 @@ COVID-19 の世界的な大流行により、青山学院大学2020年度前期�
 
 ## 利用方法
 
-* アンケート質問項目原文
+### アンケート質問項目原文
 適宜コピーして改変するなど二次利用していただいて問題ありません。 どこかに小さく © GSC, Aoyama Gakuin Univ., CC BY 4.0 とお書きください。
+* https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md
 
-https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md
 
-
-* Google Form をそのままコピーしたい場合
+### Google Form をそのままコピーしたい場合
 以下のURLに、誰でも編集可能な状態でバックアップファイルを公開しております。Googleドライブなどで自由に複製していただいて構いません。もしバックアップファイルへ直接悪意のある編集などが行われた場合は適宜Revert処理を行います。
+* https://bit.ly/3fnxeET
 
-https://bit.ly/3fnxeET
 
-
-* アンケートサイト実装例プレビュー版
+### アンケートサイト実装例プレビュー版
 秘密の言葉 **11111** で、 自由にお試しいただけます。
-
-https://docs.google.com/forms/d/e/1FAIpQLSccCt2CljpDhsqX-Yo6bb4te_s87DpTcJ-1IsLSGIpUGBlsAA/viewform
+* https://docs.google.com/forms/d/e/1FAIpQLSccCt2CljpDhsqX-Yo6bb4te_s87DpTcJ-1IsLSGIpUGBlsAA/viewform
 
 
 
 
 ## [ライセンス](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/LICENSE.md)
-本アンケート質問項目は [CC BY 4.0 ライセンス](, https://creativecommons.org/licenses/by/4.0/deed.ja) として公開します。ライセンスの記載方法は以下に示します。
+本アンケート質問項目は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/deed.ja) として公開します。ライセンスの記載方法は以下に示します。
 
 [© GSC, Aoyama Gakuin Univ., CC BY 4.0](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/LICENSE.md)
 
