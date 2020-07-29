@@ -18,12 +18,12 @@ GSC faculty members
 ---
 
 
-### 0. Secret password *
+### 0. Secret password
 GSC students have been provided with a secret password for this questionnaire.
 
 
 ### 1. Questions about yourself
-※ This survey is designed to be anonymous. The collected data will be analyzed in a way that ensures no individual respondents will be identified. 
+This survey is designed to be anonymous. The collected data will be analyzed in a way that ensures no individual respondents will be identified. 
 
 #### 1-1. Please select what year you are currently in for the 2020 academic year. 
 * Freshman / First Year
@@ -32,78 +32,65 @@ GSC students have been provided with a secret password for this questionnaire.
 * Senior / Fourth Year
 * International Student
 
-
 #### 1-2. Sex 
 * Male
 * Female
 * Non-binary 
 * Prefer not to say
 
+#### 1-3. Type of secondary school 
+* National/Public
+* Private
+* Aoyama Gakuin High School 
+* School affiliated with Aoyama Gakuin 
+* Other
 
-#### 1-3. 出身高校 *Type of secondary school 
-* 国公立 National/Public
-* 私立 Private
-* 青山学院高等部 Aoyama Gakuin High School 
-* 青山学院系属校 School affiliated with Aoyama Gakuin 
-* その他: Other
+#### 1-4. Secondary school location
+If your secondary school was abroad, please select “other” and enter the country name.
+* [Google Apps Script addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
 
+#### 1-5. If you selected “other (abroad),” please indicate the country name.　
 
-#### 1-4. 出身高校の場所（都道府県 or その他） * Secondary school location
-※ 海外の場合は「その他」を選び国名を記述してください。If your secondary school was abroad, please select “other” and enter the country name.
-* [都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
+#### 1-6. Location of current residence
+※ If your current residence is abroad, please select “Other” and indicate the country name.
+* [Google Apps Script addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
 
+#### 1-7. If you selected “other (abroad),” please indicate the country name.
 
-#### 1-5. 前述の出身高校が "その他(海外)" の場合は国名を教えて下さい。 If you selected “other (abroad),” please indicate the country name.　
-（記述式）
+#### 1-8. Current living circumstances
+* Parents’(or guardian’s) residence
+* Living alone
+* Shared residence
+* Other
 
+#### 1-9. Type of residence
+* House
+* Apartment building
+* Shared residence
+* Other
 
-#### 1-6. 現在(2020年度前期)居住している場所（都道府県 or その他） * Location of current residence
-※ 海外の場合は「その他」を選び国名を記述してください。If your current residence is abroad, please select “Other” and indicate the country name.
-* [都道府県リスト自動生成GASスクリプト addPrefListItem.gs](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/addPrefListItem.gs)
+#### 1-10. Where in your residence do you usually participate in online lectures? 
+* Living room
+* Private room
+* Common room
+* Other
 
+#### 1-11. Networking environment in your residence
+※ Communication speed refers to speed indicated by communications carrier provider. 
+* Optical Line (CATV higher than 1 Gbps)
+* Fixed broadband line other than optical line (ADSL, etc.; communication speed slower than 1 Gbps)
+* Mobile WiFi (WiMax/4G/5G, etc.)
+* Mobile phone (including Tethering)
+* Other broadband line
+* Narrowband line (ISDN, etc.; communication speed less than 128 Kbps)
+* No network
+* Not sure 
+* Other
 
-#### 1-7. 前述の現在(2020年度前期)居住している場所が "その他(海外)" の場合は国名を教えて下さい。 If you selected “other (abroad),” please indicate the country name.
-
-
-
-#### 1-8. 現在の生活状況（自宅） *Current living circumstances
-* 実家（保護者、親類など）暮らし Parents’(or guardian’s) residence
-* 一人暮らし Living alone
-* シェアルーム Shared residence
-* その他: Other
-
-
-#### 1-9. 居住地のタイプ * Type of residence
-* 戸建て House
-* 集合住宅（マンション、団地、アパート等）Apartment building
-* シェアハウス Shared residence
-* その他: Other
-
-
-
-#### 1-10. オンライン授業を主に受ける家庭内での場所はどこですか？　 * Where in your residence do you usually participate in online lectures? 
-* リビング Living room
-* 個室 Private room
-* 共有部屋 Common room
-* その他: Other
-
-
-#### 1-11. 自宅のネットワーク環境 * Networking environment in your residence
-※ 通信速度は実測値ではなく通信業者提示の理論値です。Communication speed refers to speed indicated by communications carrier provider. 
-* 光回線(1Gbps以上のCATVも含む) Optical Line (CATV higher than 1 Gbps)
-* 光回線光以外の固定ブロードバンド回線(ADSL等 通信速度が1Gbps未満)Fixed broadband line other than optical line (ADSL, etc.; communication speed slower than 1 Gbps)
-* モバイルWiFi（WiMax/4G/5G 等）Mobile WiFi (WiMax/4G/5G, etc.)
-* 携帯電話（テザリング含む）Mobile phone (including Tethering)
-* その他のブロードバンド回線
- Other broadband line* ナローバンド回線(ISDN等、通信速度が 128Kbps 以下) Narrowband line (ISDN, etc.; communication speed less than 128 Kbps)
-* 回線なし No network
-* よくわからない Not sure 
-* その他: Other
-
-#### 1-12. 自宅のネットワーク環境の通信制限について * Do you have communication restrictions in the networking environment in your residence?
-* 通信制限あり Yes, there are communication restrictions
-* 通信制限なし No, there are no communication restrictions
-* 不明 Not sure
+#### 1-12. Do you have communication restrictions in the networking environment in your residence?
+* Yes, there are communication restrictions
+* No, there are no communication restrictions
+* Not sure
 
 ---
 
