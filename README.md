@@ -9,18 +9,18 @@ COVID-19 の世界的な大流行により、青山学院大学2020年度前期�
 
 ### 1-1. アンケート質問項目原文
 適宜以下のURLより[原文](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md)をコピーして改変するなど二次利用していただいて問題ありません。 どこかに小さく © GSC, Aoyama Gakuin Univ., CC BY 4.0 とお書きください。
-* https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md
-
+* https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire.md (日本語版)
+* https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/questionnaire_en.md (英語版)
 
 ### 1-2. Google Form をそのままコピーしたい場合
 以下のURLに、誰でも編集可能な状態でバックアップファイルを公開しております。Googleドライブなどで自由に複製していただいて構いません。もしバックアップファイルへ直接悪意のある編集などが行われた場合は適宜Revert処理を行います。
-* https://bit.ly/3fnxeET on Google Form
-
+* https://bit.ly/3fnxeET on Google Form (日本語版)
+* https://bit.ly/3f4LNw9 on Google Form (英語版)
 
 ### 1-3. アンケートサイト実装例プレビュー版
 秘密の言葉 **11111** で、 自由にお試しいただけます。
-* https://docs.google.com/forms/d/e/1FAIpQLSccCt2CljpDhsqX-Yo6bb4te_s87DpTcJ-1IsLSGIpUGBlsAA/viewform
-
+* https://docs.google.com/forms/d/e/1FAIpQLSccCt2CljpDhsqX-Yo6bb4te_s87DpTcJ-1IsLSGIpUGBlsAA/viewform (日本語版)
+* https://docs.google.com/forms/d/e/1FAIpQLSfuly2bM0OQFZp47PbbcpijO-NTyH7REdAxvj16bsy2tYoSmQ/viewform (英語版)
 
 
 ## 2. [ライセンス](https://github.com/gsc-aoyama/questionnaire4onlineclasses/blob/master/LICENSE.md)
