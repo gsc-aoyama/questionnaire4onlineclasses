@@ -22,6 +22,9 @@ GSC faculty members
 GSC students have been provided with a secret password for this questionnaire.
 
 
+---
+
+
 ### 1. Questions about yourself
 This survey is designed to be anonymous. The collected data will be analyzed in a way that ensures no individual respondents will be identified. 
 
@@ -94,238 +97,194 @@ If your secondary school was abroad, please select “other” and enter the cou
 
 ---
 
-### 2. オンライン授業全般に関する質問 Questions about online courses
-2020年度前期より開始したオンライン授業全体の総合的な評価についてお聞きします。These questions pertain to your overall evaluation of the online courses started from the first term of academic year 2020.
+### 2. Questions about online courses
+These questions pertain to your overall evaluation of the online courses started from the first term of academic year 2020.
 
-#### 2-1. オンライン授業全般に対して満足していますか？ * Are you satisfied with online courses in general?
-　満足していない　1　2　3　4　5　満足している
-Not satisfied  　1　2　3　4　5 Satisfied
+#### 2-1. Are you satisfied with online courses in general?
 
-#### 2-2. 多様なメディア等を利用して講師とコミュニケーションがとれていますか？ *
-Can you communicate with the instructors via diverse communication media?
-　とれていない　1　2　3　4　5　とれている
+Not satisfied　1　2　3　4　5　Satisfied
+
+#### 2-2. Can you communicate with the instructors via diverse communication media?
+
 Yes 1　2　3　4　5 No 
 
-#### 2-3. オンライン授業のほうが対面より優れていると思いますか？　 *
-授業の理解度、融通の利きやすさ、費用など複数の要素を総合的に判断してください。
-Do you think that online courses are better than in-person courses?
-　優れていない　1　2　3　4　5　優れている
+#### 2-3. Do you think that online courses are better than in-person courses?
+
 Not better 1　2　3　4　5 Better
 
-#### 2-4. オンライン授業の講義資料の共有は、いつ実施して欲しいですか？　 *
-When do you want lecture materials to be shared with (or sent to)the members of an online course? 
-* 当日で構わない The day of the lecture
-* 前日 One day before the lecture date
-* 2~3日前 A few days before the lecture date
-* 4日~1週間前  Up to a week before the lecture date
-* 初回授業時にまとめて共有して欲しい All materials had better be shared at the start of the course
-* その他: Other
+#### 2-4. When do you want lecture materials to be shared with (or sent to)the members of an online course? 
+* The day of the lecture
+* One day before the lecture date
+* A few days before the lecture date
+* Up to a week before the lecture date
+* All materials had better be shared at the start of the course
+* Other
 
 
-### 3. コースパワーに関する質問 Questions about CoursePower
-コースパワー(CoursePower)とは、青山学院大学で導入されている富士通株式会社製の授業管理システム(LMS)の名称です。CoursePower is the name of the Learning Management System (Fujitsu) used at Aoyama Gakuin University.
+### 3. Questions about CoursePower
+CoursePower is the name of the Learning Management System (Fujitsu) used at Aoyama Gakuin University.
 
-#### 3-1. オンライン授業開始日〜現在までに、コースパワーの利用で困ったことがありますか？ ※ * Have you had any “technical” problems with using CoursePower, from the beginning of online classes to the present? 
-※ アクセスできない場合や、アクセス後でも不具合が発生するなど主に技術的なトラブルを指します。
+#### 3-1. Have you had any “technical” problems with using CoursePower, from the beginning of online classes to the present? 
 
-　とても困った　1　2　3　4　5　全く困らなかった
 Lots of problems 1　2　3　4　5 No problems at all
 
-#### 3-2. コースパワーにアクセスできず、具体的に困ったことを教えてください。 ※ *
-※ 複数選択可能。困った事例がない場合は「特になし」を選択してください。
-Please select any issue(s) that you have experienced with CoursePower from the list below. You can choose multiple issues. If you have not experienced any problems thus far, please choose “nothing in particular.”
-* [ ] リアルタイム型授業のURLの取得 Acquiring the URL for real-time class
-* [ ] コースパワー内での講師へのリアクション（掲示板や質問登録など）Message transmission of feedback (comments, questions, etc.) to the instructor in CoursePower. 
-* [ ] 課題の提出 Submission of homework
-* [ ] 特になし Nothing in particular
-* [ ] その他: Other
+#### 3-2. Please select any issue(s) that you have experienced with CoursePower from the list below. You can choose multiple issues. If you have not experienced any problems thus far, please choose “nothing in particular.”
+* [ ] Acquiring the URL for real-time class
+* [ ] Message transmission of feedback (comments, questions, etc.) to the instructor in CoursePower. 
+* [ ] Submission of homework
+* [ ] Nothing in particular
+* [ ] Other
 
 
-#### 3-3. コースパワーにアクセスできた場合でも、使いにくいなど具体的に困っていることがあれば教えてください。※ * 
-※ 複数選択可能。困った事例がない場合は「特になし」を選択してください。
-Aside from access, please let us know if you have experienced any difficulties using CoursePower. You can choose multiple issues. If you have not experienced any problems thus far, please choose “nothing in particular.”
-
-* [ ] 動作が遅い Slow speed
-
-* [ ] 出席がとられているか不安 Concern about attendance record
-* [ ] 課題の提出がしにくい Inconvenience in submission of homework
-* [ ] ファイルサイズの容量制限にひっかかる Restrictions on upload file size
-* [ ] 特になし Nothing in particular
-* [ ] その他: Other
+#### 3-3. Aside from access, please let us know if you have experienced any difficulties using CoursePower. You can choose multiple issues. If you have not experienced any problems thus far, please choose “nothing in particular.”
+* [ ] Slow speed
+* [ ] Concern about attendance record
+* [ ] Inconvenience in submission of homework
+* [ ] Restrictions on upload file size
+* [ ] Nothing in particular
+* [ ] Other
 
 
-#### 3-4. 講義資料の共有において、コースパワー以外に使用されている媒体を教えてください。※ 複数選択可能
-※ * Please let us know what other platforms, aside from CoursePower, that you have used for sharing course materials.  You can choose multiple answers.
-* [ ] コースパワーのみ Only CoursePower 
+#### 3-4. Please let us know what other platforms, aside from CoursePower, that you have used for sharing course materials.  You can choose multiple answers.
+* [ ] Only CoursePower 
 * [ ] Google Classroom 
-Google Classroom* [ ] Microsoft Teams Microsoft Teams
-* [ ] オンラインストレージ（Googleドライブ、OneDrive、Dropbox、iCloud、Box等）
-Online Storage (GoogleDrive, OneDrive,Dropbox,iCloud,Box, etc.)
-* [ ] SNS/チャットツール（Facebook、Twitter、LINE、Slack、Discord等）
-SNS/Chat (Facebook、Twitter、LINE、Slack、Discord, etc.)
-* [ ] 掲示板システム Bulletin board system
-* [ ] その他のブログ系コンテンツ共有サービス（note、Medium、アメブロ、はてなブログ等）Other blog content sharing services (note、Medium、AmeBlo (Ameba), Hatena Blog, etc.)
-* [ ] 独自Webサイト Self-designed website
-* [ ] その他: Other
+* [ ] Microsoft Teams
+* [ ] Online Storage (GoogleDrive, OneDrive,Dropbox,iCloud,Box, etc.)
+* [ ] SNS/Chat (Facebook、Twitter、LINE、Slack、Discord, etc.)
+* [ ] Bulletin board system
+* [ ] Other blog content sharing services (note、Medium、AmeBlo (Ameba), Hatena Blog, etc.)
+* [ ] Self-designed website
+* [ ] Other
 
 
-#### 3-5. それぞれの講義資料共有ツールとしての使い勝手を教えてください。 ※ *
-※ 使用していないものは「使用せず」を選択してください。一部名称の短縮表示にしてあります。（Classroom＝Google Classroom、MS Teams＝Microsoft Teams）
-Please let us know how convenient each of the following platforms is for sharing course materials. For those item(s) you have not used, please choose “have not used.”(Abbreviations: Classroom＝Google Classroom、MS Teams＝Microsoft Teams)
-　1.使い難い	2	3.まあまあ	4	5.使い易い	使用せず
-1. Difficult to use 2. 3.Fair 4. 5. Easy to Use 6. Have not used
-* コースパワー CoursePower
-* Classroom  Classroom
-* MS Teams MS Teams
-* ｵﾝﾗｲﾝｽﾄﾚｰｼﾞ Online storage
-* SNS/ﾁｬｯﾄ SNS/chat
-* 掲示板ｼｽﾃﾑ Bulletin board system
-* ブログ Blog
-* 独自Webｻｲﾄ Self-designed website
+#### 3-5. Please let us know how convenient each of the following platforms is for sharing course materials. For those item(s) you have not used, please choose “have not used.”(Abbreviations: Classroom＝Google Classroom、MS Teams＝Microsoft Teams)
+
+1.Difficult to use
+2.
+3.Fair 
+4. 
+5. Easy to Use 
+6. Have not used
+
+* CoursePower
+* Google Classroom
+* Microsoft Teams
+* Online storage
+* SNS/chat
+* Bulletin board system
+* Blog
+* Self-designed website
 
 
-#### 3-6. そのツールが使いやすい理由は何ですか？ ※
-※ 必ずツール名:と理由をセットで回答してください。
-Please explain the reason(s) why you think that the platform(s) you chose is/are convenient. Please specify which tool(s) you are referring to in your explanation.   
+#### 3-6. Please explain the reason(s) why you think that the platform(s) you chose is/are convenient. Please specify which tool(s) you are referring to in your explanation.   
 ---
 
-### 4. リアルタイム型授業※ に関する質問 Questions about real-time courses
-※ 授業時間に教員・学生が同時にアクセスする同時双方向型の授業スタイル
+### 4. Questions about real-time courses
 A real-time course is an interactive distance education style in which both the instructor and the students are online simultaneously
 
-#### 4-1. リアルタイム型授業※ を受講していますか？　 *Do you take any real-time course(s)? 
-※ 授業時間に教員・学生が同時にアクセスする同時双方向型の授業スタイルA real-time course is an interactive distance education style in which both the instructor and the students are online simultaneously.
+#### 4-1. *Do you take any real-time course(s)? 
+A real-time course is an interactive distance education style in which both the instructor and the students are online simultaneously.
+* Yes
+* No
 
-* はい Yes
-* いいえ No
-
-
-#### 4-2. リアルタイム型授業実施時の使用端末は？ ※ What kind of terminal do you usually use for real-time courses? 
-※ テザリング端末ではなく映像を閲覧している端末 Terminal here refers to not a tethering terminal but the terminal through which you watch the video. 
-* デスクトップパソコン Desktop computer
-* ノートパソコン Laptop computer
-* スマートフォン Smart phone
-* フィーチャーフォン(いわゆるガラケー) Feature phone
-* タブレット Tablet
-* その他: Other
+#### 4-2. What kind of terminal do you usually use for real-time courses? 
+※ Terminal here refers to not a tethering terminal but the terminal through which you watch the video. 
+* Desktop computer
+* Laptop computer
+* Smart phone
+* Feature phone
+* Tablet
+* Other
 
 
-#### 4-3. Webex※ を用いたリアルタイム授業の受けやすさについて教えてください。　
-※ Webex は 青山学院大学情報メディアセンター推奨 の Cisco製TV会議システム
-Please let us know how convenient it is to use Webex for real-time courses.
-(Webex is a TV conference system by Cisco, recommended by the Information Media Center at Aoyama Gakuin University)
-　受けづらい　1　2　3　4　5　受けやすい
+#### 4-3. Please let us know how convenient it is to use Webex for real-time courses.
+Webex is a TV conference system by Cisco, recommended by the Information Media Center at Aoyama Gakuin University
+
 Difficult to listen to lectures   1　2　3　4　5   Easy to listen to lectures 
 
-#### 4-4. Webexでの授業の受けづらさについて、なぜそう思いますか？　
-（記述式）
-Why do you think it is difficult to listen to lectures on Webex? 
+#### 4-4. Why do you think it is difficult to listen to lectures on Webex? 
 
-#### 4-5. Webexでの授業の受けやすさについて、なぜそう思いますか？
-（記述式）
-Why do you think it is easy to listen to lectures on Webex? 
+#### 4-5. Why do you think it is easy to listen to lectures on Webex? 
 
-#### 4-6. リアルタイム型授業（Webex以外）で使用したことのあるツールがあれば教えてください。Please tell us if you have used any platform(s) other than Webex in real-time course(s).　
+#### 4-6. Please tell us if you have used any platform(s) other than Webex in real-time course(s).　
 * [ ] Zoom Zoom
-* [ ] Google Meet(旧 Hangouts Meet) Google Meet(formerly Hangouts Meet)
-* [ ] Microsoft Teams Microsoft Teams
+* [ ] Google Meet(formerly Hangouts Meet)
+* [ ] Microsoft Teams
 * [ ] Skype Skype
-* [ ] Spatial.Chat Spatial.Chat
-* [ ] その他: Other:
+* [ ] Spatial.Chat
+* [ ] Other:
 
 
-#### 4-7. それぞれのツールの使いやすさを教えて下さい。Please let us know how convenient each of the following platforms is to use. 
-　1.使い難い	2	3.まあまあ	4	5.使い易い	使用せず
+#### 4-7. Please let us know how convenient each of the following platforms is to use. 
+
 1. Difficult to use 2. 3. Fair  4. 5. Easy to Use  Have not Used 
-* Webex	 Webex
-* Zoom	 Zoom
-* Google Meet(旧 Hangouts Meet)	 Google Meet(formerly Hangouts Meet)	
-* Microsoft Teams	 Microsoft Teams
-* Skype	 Skype
-* Spatial.Chat	 Spatial.Chat
+* Webex
+* Zoom
+* Google Meet(formerly Hangouts Meet)	
+* Microsoft Teams
+* Skype
+* Spatial.Chat
 
 
-#### 4-8. 上記の質問(4-7)で "4" もしくは "5.使い易い" と回答したツールそれぞれについて、使いやすい理由を具体的に教えて下さい。
-※ 必ずツール名:と理由をセットで回答してください。
-（記述式）
-Please explain the reason(s) for your choice of 4 or 5(easy to use) in Question 4-7 above, for each tool you evaluated as either 4 or 5. 
+#### 4-8. Please explain the reason(s) for your choice of 4 or 5(easy to use) in Question 4-7 above, for each tool you evaluated as either 4 or 5. 
 
-#### 4-9. リアルタイム型の授業で、少人数グループに別れてグループディスカッションを行ったことはありますか？※
-※ 主にZoomのブレイクアウトセッションやRemo、複数タブに分割された Google Meets、Spatial.Chat など ツールは問いません。
-In real-time courses, have you ever experienced group discussions among a small number of members? (e.g., Zoom’s breakout sessions, Remo, Google Meets divided into multiple tabs, Spatial.Chat, etc.)
-* はい Yes
-* いいえ No
+#### 4-9. In real-time courses, have you ever experienced group discussions among a small number of members? (e.g., Zoom’s breakout sessions, Remo, Google Meets divided into multiple tabs, Spatial.Chat, etc.)
+* Yes
+* No
 
+#### 4-10. To what extent do you think that online group discussion tools are convenient to use?   
+If your answer to 4-9 was “No,” you can skip this question.
 
-#### 4-10. オンラインでグループディスカッションしたことのある方はどの程度使いやすかったですか？※ To what extent do you think that online group discussion tools are convenient to use?   
-※ 4-9 の回答が「いいえ」の人は回答不要です。If your answer to 4-9 was “No,” you can skip this question.
-　使いにくい　1　2　3　4　5　使いやすい
 Difficult to use 1　2　3　4　5 Easy to use
 
 
-#### 4-11. リアルタイム型授業のメリットがあれば、教えて下さい。　
-（記述式）
-Please indicate the merit(s) of real-time online courses, if any.
+#### 4-11. Please indicate the merit(s) of real-time online courses, if any.
 
-#### 4-12. アルタイム型授業のデメリットがあれば、教えて下さい。
-（記述式）
-Please indicate the demerit(s) of real-time online courses, if any.
+#### 4-12. Please indicate the demerit(s) of real-time online courses, if any.
 
 ---
 
-### 5. オンデマンド型授業※ に関する質問 Questions about on-demand courses
-※ オンデマンド型授業とは、教員が事前に作成した動画等を学生が任意の時間に閲覧する授業を指します。Zoomなどを利用したリアルタイムでの中継授業授業はこれに含まれません。(an on-demand course is one in which students watch videos prepared by the instructor in advance. Real-time courses conducted via Zoom and so forth are not categorized as on-demand courses)   
+### 5. Questions about on-demand courses
+An on-demand course is one in which students watch videos prepared by the instructor in advance. Real-time courses conducted via Zoom and so forth are not categorized as on-demand courses.
 
-#### 5-1. オンデマンド型授業※ を受講していますか？※ *Do you take any on-demand courses?  
-※ オンデマンド型授業とは、教員が事前に作成した動画等を学生が任意の時間に閲覧する授業を指します。Zoomなどを利用したリアルタイムでの中継授業授業はこれに含まれません。(an on-demand course is one in which students watch videos prepared by the instructor in advance. Real-time courses conducted via Zoom and so forth are not categorized as on-demand courses)   
-* はい Yes
-* いいえ No
+#### 5-1. Do you take any on-demand courses?  
+* Yes
+* No
 
-#### 5-2. オンデマンド型授業実施時の使用端末は？ ※ What kind of terminal do you usually use for on-demand courses? 
-※ テザリング端末ではなく映像を閲覧している端末を選択してください。
-* デスクトップパソコン Desktop computer
-* ノートパソコン Laptop computer
-* スマートフォン Smart phone
-* フィーチャーフォン(いわゆるガラケー) Feature phone
-* タブレット Tablet
-* その他: Other
+#### 5-2. What kind of terminal do you usually use for on-demand courses? 
+* Desktop computer
+* Laptop computer
+* Smart phone
+* Feature phone
+* Tablet
+* Other
 
 
-#### 5-3. 受講しているオンデマンド型授業は、どのような形※ で行われていますか？
-※ 当てはまるもの全てに回答してください。
-What kind of style(s) do the on-demand courses you currently take have?  
-* 映像 Video
-* 音声 Audio 
-* スライド・配布資料などのデータ Slides/handout materials
-* その他: Other
+#### 5-3. What kind of style(s) do the on-demand courses you currently take have?  
+* Video
+* Audio 
+* Slides/handout materials
+* Other
 
 
-#### 5-4. 1回の授業※ あたりで適切と思われる動画の長さは？
-※ 1回の授業=90分
-What length is appropriate for a video lecture for each class? (One class is 90 minutes in total)
-　10分	20分	30分	40分	50分	60分	70分	80分	90分
+#### 5-4. What length is appropriate for a video lecture for each class? (One class is 90 minutes in total)
+
 Duration:
 10 minutes, 20 minutes, 30 minutes, 40 minutes, 50 minutes, 60 minutes, 70 mintes, 80 minutes, 90 minutes
-* 収録時間	
-* 収録時間
 
 
-#### 5-5. オンデマンド型授業の受けやすさはどう感じましたか？
-How do you evaluate the convenience of on-demand courses?  
-　受けづらい　1　2　3　4　5　受けやすい
+
+#### 5-5. How do you evaluate the convenience of on-demand courses?  
+
 Difficult to take 1　2　3　4　5　   Easy to take
 
-#### 5-6. オンデマンド型授業のメリットがあれば、教えて下さい。　
-（記述式）
-Please indicate the merits of on-demand courses, if any. 
+#### 5-6. Please indicate the merits of on-demand courses, if any. 
 
-#### 5-7. オンデマンド型授業のデメリットがあれば、教えて下さい。　
-（記述式）
-Please indicate the demerits of on-demand courses, if any. 
+#### 5-7. Please indicate the demerits of on-demand courses, if any. 
 
 ---
 
-### 6. 自己学習型授業※ に関する質問 Questions about self-study courses
+### 6. Questions about self-study courses
   
 ※ 自己学習型授業とは、ネット上に置かれた資料を元に学生が学習する課題提示前提の授業のことです。授業解説のための動画等といったコンテンツは存在しません。
 (In a self-study course, students study on their own based on course materials prepared and uploaded by the instructor in advance. There is no particular video for explanation of the course materials by the instructor)
