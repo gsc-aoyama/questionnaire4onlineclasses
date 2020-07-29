@@ -5,7 +5,7 @@ The purpose of this survey is to improve our online courses. We would appreciate
 https://sites.google.com/gs.gsc.aoyama.ac.jp/gscgsuiteportal/questionnaire
 
 
-As this is an anonymous survey, your identity will not be made known. Only the collected data, without identifying individual students, may be disclosed under CC-BY-4.0.  
+As this is an anonymous survey, your identity will not be made known. Only the collected data, without identifying individual students, may be disclosed under CC BY 4.0.  
 https://github.com/gsc-aoyama/questionnaire4onlineclasses
 
 © GSC, Aoyama Gakuin Univ., CC BY 4.0, https://creativecommons.org/licenses/by/4.0/deed.ja
@@ -285,111 +285,81 @@ Difficult to take 1　2　3　4　5　   Easy to take
 ---
 
 ### 6. Questions about self-study courses
-  
-※ 自己学習型授業とは、ネット上に置かれた資料を元に学生が学習する課題提示前提の授業のことです。授業解説のための動画等といったコンテンツは存在しません。
-(In a self-study course, students study on their own based on course materials prepared and uploaded by the instructor in advance. There is no particular video for explanation of the course materials by the instructor)
-#### 6-1. 自己学習型授業※ を受講していますか * Do you take any self-study courses? 
+In a self-study course, students study on their own based on course materials prepared and uploaded by the instructor in advance. There is no particular video for explanation of the course materials by the instructor
 
-※ 自己学習型授業とは、ネット上に置かれた資料を元に学生が学習する課題提示前提の授業のことです。授業解説のための動画等といったコンテンツは存在しません。
-(In a self-study course, students study on their own based on course materials prepared and uploaded by the instructor in advance. There is no particular video for explanation of the course materials by the instructor)
-* はい Yes
-* いいえ No
+#### 6-1. Do you take any self-study courses? 
+In a self-study course, students study on their own based on course materials prepared and uploaded by the instructor in advance. There is no particular video for explanation of the course materials by the instructor
+* Yes
+* No
 
 
-#### 6-2. 自己学習型授業のメリットがあれば、教えて下さい。
-（記述式）
-Please indicate the merit(s) of self-study courses, if any. 
+#### 6-2. Please indicate the merit(s) of self-study courses, if any. 
 
-#### 6-3. 自己学習型授業のデメリットがあれば、教えて下さい。
-（記述式）
-Please indicate the demerit(s) of self-study courses, if any. 
+#### 6-3. Please indicate the demerit(s) of self-study courses, if any. 
 
 ---
 
 ### 7. GSC G Suite※ について Questions about GSC G Suite
-※ 2020年5月中旬にGSCの教職員学生全員へ配布された Google が提供する G Suite for Education サービス。主にGドライブや Google Classroom といったツールをオンライン授業で活用しています。
-(G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020) 
+※ G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020
 
-#### 7-1. 地球社会共生学部は独自に GSC G Suite アカウント※を全員に配布し、試験運用を開始しましたが、利用していますか？ *
-Do you currently use the GSC G Suite account prepared and tested by GSC?  
-※ 2020年5月中旬にGSCの教職員学生全員へ配布された Google が提供する G Suite for Education サービス。主にGドライブや Google Classroom といったツールをオンライン授業で活用しています。(G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020) 
+#### 7-1. Do you currently use the GSC G Suite account prepared and tested by GSC?  
 
-* すでに利用している。I am already using it.
-* 初期パスワードは設定したが、その後使っていない。I set the initial password but have not used it yet. 
-* まだログイン/初期設定できていない。I have not set the login/password yet.
-* GSC G Suite がそもそも何かわかっていない。
-I do not know what GSC G Suite is.
+* I am already using it.
+* I set the initial password but have not used it yet. 
+* I have not set the login/password yet.
+* I do not know what GSC G Suite is.
 
-#### 7-2. GSC G Suite※ の使い勝手についてどう感じていますか？
-How do you evaluate the convenience of using GSC G Suite?
-※ 2020年5月中旬にGSCの教職員学生全員へ配布された Google が提供する G Suite for Education ライセンス。主にGドライブや Google Classroom といったツールをオンライン授業で活用しています。(G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020) 
+#### 7-2. How do you evaluate the convenience of using GSC G Suite?
 
-不便になった　1　2　3　4　5　便利になった
 Inconvenient 1　2　3　4　5 Convenient　
 
-#### 7-3. GSC G Suite※ を利用して感じたメリットがあれば、教えて下さい。
-Please indicate the merits of using GSC G Suite, if any.
-※ 2020年5月中旬にGSCの教職員学生全員へ配布された Google が提供する G Suite for Education サービス。主にGドライブや Google Classroom といったツールをオンライン授業で活用しています。(G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020) 
-
-（記述式）
+#### 7-3. Please indicate the merits of using GSC G Suite, if any.
 
 
-#### 7-4. GSC G Suite※ を利用して感じたデメリットがあれば、教えて下さい。
-Please indicate the demerits of using GSC G Suite, if any.
+#### 7-4. Please indicate the demerits of using GSC G Suite, if any.
 
-※ 2020年5月中旬にGSCの教職員学生全員へ配布された Google が提供する G Suite for Education サービス。主にGドライブや Google Classroom といったツールをオンライン授業で活用しています。(G Suite for Education service by Google was distributed to all GSC students and staff/faculty members in mid-May 2020) 
-
-（記述式）
 
 ---
 
-### 8. これからの授業形態について Questions about your ideal course style
-COVID-19 収束後の授業はどうあるべきか意見を寄せてください。
+### 8. Questions about your ideal course style
 Please let us know your opinion about what the ideal course style would be in the post-Covid-19 era.
-#### 8-1. COVID-19の終息後、授業は通常の対面型に戻ります。その際、オンライン授業についてはどうあるべきだと考えますか？ ※ * After the end of the Covid-19 pandemic, courses will revert to being taught in person. What role do you think online courses should have when that happens?   
-※ 独自のアイディアがある場合は、「その他」欄に記載してください。
-(If you have a particular idea of your own, please explain it in the “other” section) 
-* a) すべて対面授業で行うべき All courses should be taught in person 
-* b) オンラインのみの授業も行うべき(講義ごとに対面 or オンラインを講師が選択) There should be some options for online courses (each instructor decides if his/her course should be taught online or in person) 
 
-* c) 対面授業とオンライン授業を組み合わせるべき(対面授業を前提に、学生はオンラインでも参加可能) In-person classes and online classes should be combined in a course (under the assumption that some students can participate online in an in-person class) 
-* その他: Other
+#### 8-1. After the end of the Covid-19 pandemic, courses will revert to being taught in person. What role do you think online courses should have when that happens?   
+
+If you have a particular idea of your own, please explain it in the “other” section
+* a) All courses should be taught in person 
+* b) There should be some options for online courses (each instructor decides if his/her course should be taught online or in person) 
+* c) In-person classes and online classes should be combined in a course (under the assumption that some students can participate online in an in-person class) 
+* Other
 
 
-#### 8-2. 上記の質問(8-1)で、b) もしくは c) と答えた方にお聞きします。対面授業とオンライン授業を組み合わせる場合、最も望ましいオンライン方式は何ですか？（複数回答可）If you chose b) or c) as your answer to Question 8-1 above, which type of combination is the most ideal online style? (you can choose multiple answers)
-* [ ] リアルタイム授業を行うべき Real-time class
-* [ ] オンデマンド型授業を行うべき On-demand class
-* [ ] 自己学習型授業を行うべき Self-study class
-* [ ] その他: Other
+#### 8-2. If you chose b) or c) as your answer to Question 8-1 above, which type of combination is the most ideal online style? (you can choose multiple answers)
+* [ ] Real-time class
+* [ ] On-demand class
+* [ ] Self-study class
+* [ ] Other
 
 ---
 
-### 9. 最後に Your honest opinion
-みなさんからの忌憚のない意見を期待しています。
+### 9. Your honest opinion
 
-#### 9-1. オンライン授業に対する期待があれば、教えてください。
-Please let us know what expectations you have for online courses.　
-（記述式）
+#### 9-1. Please let us know what expectations you have for online courses.　
 
 
-#### 9-2 オンライン授業に対する不安があれば、教えてください。　
-Please let us know about any concerns you may have about online courses.　
-（記述式）
+#### 9-2 Please let us know about any concerns you may have about online courses.　
+
 
 
 ---
 
 
-## アンケート回答後のメッセージ Message to respondents
-回答ありがとうございます！ これからの New Normal な世界に、大学を舞台とした高等教育がどのように進化していくべきか、入力してくれた回答内容と意見を真摯に受け止め、より良いGSCの授業とはどうあるべきか、教職員一同が真剣に議論する土台として、このデータは非常に重要な財産となります。引き続きGSCは学生の皆さんとすべての教職員が協力し、COVID-19 も含めたこの緊急事態に対処し、今まで以上に価値ある教育活動が送れるよう、最善を尽くしていきます。
+## Message to respondents
 Thank you for your participation! Your responses are valuable assets enabling the staff and faculty members to better discuss how to improve and evolve education at GSC, as well as higher education in general. 
-The GSC staff and  faculty will do their utmost to deal with the emergency under Covid-19 and endeavor to prepare more meaningful education for all our students.  
+The GSC staff and faculty will do their utmost to deal with the emergency under Covid-19 and endeavor to prepare more meaningful education for all our students.  
 
-とくにオンライン授業への取り組みについては
-Facebookグループ「GSC G Suite 駆け込みチャペル」へ遠慮なく意見してください。
 https://www.facebook.com/groups/gscgsuite
 
 Please feel free to convey your opinions to the GSC G Suite Help Center Chapel via Facebook.
-共に、新しい GSC をつくっていきましょう！
+
 Let’s work together to make GSC better than ever!
 
